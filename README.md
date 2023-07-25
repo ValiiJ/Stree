@@ -1,16 +1,7 @@
 # stree
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_4_2023-07-25_14-44-09](https://github.com/ValiiJ/Stree/assets/85800317/aaba4f7f-1d28-4909-a6ca-174950758a3c)
+![photo_3_2023-07-25_14-44-09](https://github.com/ValiiJ/Stree/assets/85800317/c41e4fa7-85bb-4796-ae05-31283a175fd9)
+![photo_2_2023-07-25_14-44-09](https://github.com/ValiiJ/Stree/assets/85800317/afc0a460-0410-4b81-a709-435e57ec815b)
+![photo_1_2023-07-25_14-44-09](https://github.com/ValiiJ/Stree/assets/85800317/d1806abd-9c0a-4ff0-95e0-f3786b954620)
